@@ -33,7 +33,7 @@ Displays current temperature on sda:
 Output: `15°C`
 ### weather.sh
 Displays count of currently upgradeable packages.  
-Output: `🌫   0.0mm   →10km/h   -1°C   (-4°C)`
+Output: `🌫   0.0mm   →10km/h   -1°C   (-4°C)`  
 wttr.in API sometimes experiencing some issues, needs a fix for long downtime (no tmp file available from the last run).
 ### updates.sh
 Displays count of currently upgradeable packages.  
